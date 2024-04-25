@@ -2,7 +2,7 @@
 const Cartaccordion = (props) => {
 
     const {cartaccordiondata} = props
-    const {cimageid, cname, cprice, keyword, cratings, cveg, cid, cp} = cartaccordiondata
+    const {cimageid, cname, cprice} = cartaccordiondata
 
 
     return (
