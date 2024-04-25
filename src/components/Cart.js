@@ -17,7 +17,7 @@ const Cart = () => {
 
     useEffect(()=>{
         fetchmenudata()
-    },[])
+    })
 
     const fetchmenudata=()=>{
         setTimeout(()=>{
