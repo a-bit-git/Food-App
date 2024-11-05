@@ -100,7 +100,7 @@ export const data = [
     {
         id : 9,
         imageid : "https://png.pngtree.com/thumb_back/fw800/background/20231025/pngtree-scrumptious-homemade-fried-samosa-on-a-textured-dark-background-image_13706545.png",
-        name : "Bisto Fast Foods",
+        name : "Town Tables Restaurant",
         veg : "🟩",
         cuisine : ["Pasta", "Noodles", "Indian Snacks"],
         ratings : 3.9,
@@ -213,7 +213,7 @@ export const Appshimmer = [
     {
         id : 9,
         imageid : "https://t4.ftcdn.net/jpg/02/71/53/89/360_F_271538920_QfQaUsbICjT8sLFBesUU1MOY6xSDUx9l.jpg",
-        name : "Bisto Fast Foods",
+        name : "Town Tables Restaurant",
         cuisine : ["Pasta", "Noodles", "Indian Snacks"],
         ratings : 3.9,
         delivery : 25,
@@ -315,8 +315,8 @@ export const resHeader = [
     },
     {
         id : "110",
-        resimageid : "https://10619-2.s.cdn12.com/rests/original/105_505152212.jpg",
-        resname : "Bisto Fast Foods",
+        resimageid : "https://png.pngtree.com/thumb_back/fw800/background/20231025/pngtree-scrumptious-homemade-fried-samosa-on-a-textured-dark-background-image_13706545.png",
+        resname : "Town Tables Restaurant",
         address1 : "No 36/6, Ground Floor, SAS House, Sapru Marg, Prem Nagar",
         address2 : "Hazratganj, Lucknow, Uttar Pradesh (226001)",
         timing : "9.30 am - 8.30 pm"
@@ -422,7 +422,7 @@ export const resHeadershimmer = [
     {
         id : "110",
         resimageid : "https://t4.ftcdn.net/jpg/02/71/53/89/360_F_271538920_QfQaUsbICjT8sLFBesUU1MOY6xSDUx9l.jpg",
-        resname : "Bisto Fast Foods",
+        resname : "Town Tables Restaurant",
         address1 : "No 36/6, Ground Floor, SAS House, Sapru Marg, Prem Nagar",
         address2 : "Hazratganj, Lucknow, Uttar Pradesh (226001)",
         timing : "9.30 am - 8.30 pm"
@@ -544,7 +544,7 @@ export const menucuisine = [
         },
         {
             cid : "10110a",
-            cimageid : "https://geekrobocook.com/wp-content/uploads/2021/03/76_Masala-Fish-Curry.jpg",
+            cimageid : "https://www.freshtohome.com/blog/wp-content/uploads/2024/06/Screenshot-2024-06-27-120149.png",
             cname : "Fish Curry",
             cveg : "🟥",
             keyword : ["Non","Meal"],
@@ -765,7 +765,7 @@ export const menucuisine = [
         },
         {
             cid : "10109a",
-            cimageid : "https://s3.ap-south-1.amazonaws.com/shopnowchat.com/Medium/637878019343203164_CrispyChickenDoublePattyBurger.jpg",
+            cimageid : "https://thumbs.dreamstime.com/b/yummy-grilled-chicken-burger-double-cutlet-cheese-wooden-table-copy-space-hamburger-fast-food-concept-yummy-grilled-211508311.jpg",
             cname : "Chicken Double Patty Burger",
             cveg : "🟥",
             keyword : ["Non","Snacks"],
@@ -966,7 +966,7 @@ export const menucuisine = [
         },
         {
             cid : "10106a",
-            cimageid : "https://s3.dualstack.ap-south-1.amazonaws.com/shopnowchat.com/Medium/638203630833827061_DoubleChickenRolljpg522202323803PM",
+            cimageid : "https://www.mashed.com/img/gallery/kfc-rings-in-2024-with-a-handful-of-new-wraps/intro-1704204467.jpg",
             cname : "Classic Chicken Roll",
             cveg : "🟥",
             keyword : ["Non","Snacks"],
@@ -996,7 +996,7 @@ export const menucuisine = [
         },
         {
             cid : "10109a",
-            cimageid : "https://s3.dualstack.ap-south-1.amazonaws.com/shopnowchat.com/Medium/638421452566265978_CoffeeMousseCakejpg129202451416PM",
+            cimageid : "https://www.kolkatagiftsonline.com/pic/GG06855.jpg",
             cname : "Coffee Mousse Cake",
             cveg : "🟩",
             keyword : ["Pure","Desserts"],
@@ -1682,7 +1682,7 @@ export const menucuisine = [
         },
         {
             cid : "10108a",
-            cimageid : "https://geekrobocook.com/wp-content/uploads/2021/04/Chilli-paneer.jpg",
+            cimageid : "https://www.shutterstock.com/image-photo/chilli-paneer-spicy-cottage-cheese-600nw-1941582925.jpg",
             cname : "Paneer Chilli Gravy",
             cveg : "🟩",
             keyword : ["Pure","Meal"],
@@ -1731,7 +1731,7 @@ export const menucuisine = [
     [
         {
             cid : "10101a",
-            cimageid : "https://baskinrobbinskolkata.in/cdn/shop/products/1570169_800x.jpg?v=1671971465",
+            cimageid : "https://images.squarespace-cdn.com/content/v1/66168fb814b8eb24abbb95de/44f8d22c-5f16-4c78-8ad6-e42e4c3bd40e/BASKIN+ROBBINS+14oz+ice+cream+FLAVORS-COTTONCANDY.jpg",
             cname : "Cotton Candy Ice Cream",
             cveg : "🟩",
             keyword : ["Pure","Desserts"],
@@ -1741,7 +1741,7 @@ export const menucuisine = [
         }, 
         {
             cid : "10102a",
-            cimageid : "https://baskinrobbinskolkata.in/cdn/shop/products/1570143_800x.jpg?v=1671970993",
+            cimageid : "https://frugivore-bucket.s3.amazonaws.com/media/package/img_one/2020-11-11/Baskin_Robbins_Dutch_Chocolate_-_Mega_Saver_Pack_700ml.jpg",
             cname : "Dutch Chocolate Ice cream",
             cveg : "🟩",
             keyword : ["Pure","Desserts"],
@@ -1769,7 +1769,7 @@ export const menucuisine = [
         },
         {
             cid : "10105a",
-            cimageid : "https://baskinrobbinskolkata.in/cdn/shop/products/1570106_800x.jpg?v=1671977284",
+            cimageid : "https://b.zmtcdn.com/data/dish_photos/445/a6cec311a1b411bf60b6d6cd69328445.jpeg",
             cname : "Red Velvet Roll Cake Slice",
             cveg : "🟩",
             keyword : ["Pure","Desserts"],
@@ -1779,7 +1779,7 @@ export const menucuisine = [
         },
         {
             cid : "10106a",
-            cimageid : "https://baskinrobbinskolkata.in/cdn/shop/products/1570100_800x.jpg?v=1671971256",
+            cimageid : "https://b.zmtcdn.com/data/dish_photos/c8b/b6bd21ba6e8db8e531846afcde94ac8b.jpeg",
             cname : "Classic Fudge Roll Cake Slice",
             cveg : "🟩",
             keyword : ["Pure","Desserts"],
@@ -1826,7 +1826,7 @@ export const menucuisine = [
         },  
         {
             cid : "10111a",
-            cimageid : "https://baskinrobbinskolkata.in/cdn/shop/products/1570114_800x.jpg?v=1671970804",
+            cimageid : "https://b.zmtcdn.com/data/dish_photos/dc7/f1a69d3c52466d2876cd2a3a2f031dc7.jpg",
             cname : "Cafe Mocha Thickshake",
             cveg : "🟩",
             keyword : ["Pure","Desserts"],
@@ -1835,7 +1835,7 @@ export const menucuisine = [
         },  
         {
             cid : "10112a",
-            cimageid : "https://baskinrobbinskolkata.in/cdn/shop/products/1570112_800x.jpg?v=1671969285",
+            cimageid : "https://b.zmtcdn.com/data/dish_photos/9bd/87ce46a1a92ae2e2cfb2e2d31cfb49bd.jpg",
             cname : "Berry Bubble Thickshake",
             cveg : "🟩",
             keyword : ["Pure","Desserts"],
