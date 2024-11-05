@@ -468,7 +468,7 @@ export const menucuisine = [
         }, 
         {
             cid : "10102a",
-            cimageid : "https://webtafri.com/wp-content/uploads/2018/05/mutton-korma-620x330.jpg",
+            cimageid : "https://rumkisgoldenspoon.com/wp-content/uploads/2023/04/Mutton-korma-Featured.jpg",
             cname : "Mutton Quorma",
             cveg : "🟥",
             keyword : ["Non","Meal"],
