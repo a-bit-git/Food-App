@@ -1816,7 +1816,7 @@ export const menucuisine = [
         },
         {
             cid : "10110a",
-            cimageid : "https://baskinrobbinskolkata.in/cdn/shop/products/1570111_800x.jpg?v=1671971312",
+            cimageid : "https://img.freepik.com/premium-photo/satisfying-milkshake-stack-with-caramel-corn-white-background-drink-glass-milkshake_1020697-135406.jpg",
             cname : "Marshmallows Thickshake",
             cveg : "🟩",
             keyword : ["Pure","Desserts"],
