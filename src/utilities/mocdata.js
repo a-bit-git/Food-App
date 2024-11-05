@@ -100,7 +100,7 @@ export const data = [
     {
         id : 9,
         imageid : "https://png.pngtree.com/thumb_back/fw800/background/20231025/pngtree-scrumptious-homemade-fried-samosa-on-a-textured-dark-background-image_13706545.png",
-        name : "Town Tables Restaurant",
+        name : "Town Tables",
         veg : "🟩",
         cuisine : ["Pasta", "Noodles", "Indian Snacks"],
         ratings : 3.9,
@@ -213,7 +213,7 @@ export const Appshimmer = [
     {
         id : 9,
         imageid : "https://t4.ftcdn.net/jpg/02/71/53/89/360_F_271538920_QfQaUsbICjT8sLFBesUU1MOY6xSDUx9l.jpg",
-        name : "Town Tables Restaurant",
+        name : "Town Tables",
         cuisine : ["Pasta", "Noodles", "Indian Snacks"],
         ratings : 3.9,
         delivery : 25,
@@ -315,8 +315,8 @@ export const resHeader = [
     },
     {
         id : "110",
-        resimageid : "https://png.pngtree.com/thumb_back/fw800/background/20231025/pngtree-scrumptious-homemade-fried-samosa-on-a-textured-dark-background-image_13706545.png",
-        resname : "Town Tables Restaurant",
+        resimageid : "https://media-cdn.tripadvisor.com/media/photo-s/17/97/a6/e0/town-tables-restaurant.jpg",
+        resname : "Town Tables",
         address1 : "No 36/6, Ground Floor, SAS House, Sapru Marg, Prem Nagar",
         address2 : "Hazratganj, Lucknow, Uttar Pradesh (226001)",
         timing : "9.30 am - 8.30 pm"
@@ -422,7 +422,7 @@ export const resHeadershimmer = [
     {
         id : "110",
         resimageid : "https://t4.ftcdn.net/jpg/02/71/53/89/360_F_271538920_QfQaUsbICjT8sLFBesUU1MOY6xSDUx9l.jpg",
-        resname : "Town Tables Restaurant",
+        resname : "Town Tables",
         address1 : "No 36/6, Ground Floor, SAS House, Sapru Marg, Prem Nagar",
         address2 : "Hazratganj, Lucknow, Uttar Pradesh (226001)",
         timing : "9.30 am - 8.30 pm"
